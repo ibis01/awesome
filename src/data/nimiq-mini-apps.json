@@ -55,6 +55,17 @@
     "featured": false
   },
   {
+    "name": "NimShop",
+    "url": "https://nimshop.vercel.app",
+    "type": "nimiq",
+    "category": "Shopping & deals",
+    "description": "AI-powered product discovery and native NIM payments",
+    "logo": "",
+    "source": "https://github.com/ibis01/Nimshop",
+    "developer": "@ibis01",
+    "featured": false
+  },
+  {
     "name": "Nimtris",
     "url": "https://nimtris.com",
     "type": "nimiq",
