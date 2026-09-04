@@ -54,7 +54,7 @@
     "developer": "@harlski",
     "featured": false
   },
-  {
+   {
     "name": "NimShop",
     "url": "https://nimshop.vercel.app",
     "type": "nimiq",
@@ -64,7 +64,7 @@
     "source": "https://github.com/ibis01/Nimshop",
     "developer": "@ibis01",
     "featured": false
-  },
+  }
   {
     "name": "Nimtris",
     "url": "https://nimtris.com",
